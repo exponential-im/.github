@@ -24,6 +24,13 @@ Your team and your agents work from one shared record. Every project and action 
 
 Guides: [MCP and SDK](https://www.exponential.im/docs/developers/mcp-and-sdk) · [CLI](https://www.exponential.im/docs/developers/cli)
 
+**Around the app.** Optional pieces that plug into it.
+
+| Repo | What it is |
+|---|---|
+| [**mastra**](https://github.com/exponential-im/mastra) | The Assistant: the agent service behind chat and Assign to Assistant, built on [Mastra](https://mastra.ai). Optional when you self-host. |
+| [**alpha-chrome-plugin**](https://github.com/exponential-im/alpha-chrome-plugin) | Exponential Capture for Chrome: voice dictation, saving pages, and adding actions, contacts and time from your browser. |
+
 ## Run it yourself
 
 Start your own copy in one click: Postgres, the app and the scheduler, with every secret generated for you.
